@@ -12,7 +12,7 @@ export const COMPANY_DEFAULTS: CompanySettings = {
   establishedDate: '20 April 2014',
   address: 'Shivnagar, Shamshan Road, Gadaipura, Gwalior, M.P. – 474004',
   phone: ['6264147250', '7999270766'],
-  email: 'rajeshbaghel8001@gmail.com',
+  email: 'rajesh8001baghel@gmail.com',
   gstin: '23CRNPB4733K1ZR',
   logo: '',
   favicon: '',
